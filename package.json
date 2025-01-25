@@ -2,10 +2,10 @@
   "name": "javascript-1",
   "version": "1.0.0",
   "description": "",
-  "main": "index2.js",
+  "main": "index3.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon index2.js"
+    "start": "nodemon index3.js"
   },
   "keywords": [],
   "author": "",
